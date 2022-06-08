@@ -1,0 +1,27 @@
+.card {
+    width: 300px;
+    font-size: 12px;
+}
+
+.card-image {
+   width: 100%;
+   border-radius: 9px;
+}
+
+.star-review {
+    width: 20px;
+    height: 14px;
+}
+
+.card-stats {
+    display: flex;
+    align-items: center;
+}
+
+.grey {
+    color: rgb(202, 192, 192);
+}
+
+.bold {
+    font-weight: bold;
+}
